@@ -72,6 +72,23 @@ GenerateClassCluster=0
 DocumentUniqueId=DSWCSRRQ
 
 [Document3]
+DocumentPath=00-OVERVIEW.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QGXAHZJO
+
+[Document4]
 DocumentPath=01-UART.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GAZBXYCR
 
-[Document4]
+[Document5]
 DocumentPath=02-MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OSXSYRDJ
 
-[Document5]
+[Document6]
 DocumentPath=03-GPS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JLZSRBAY
 
-[Document6]
+[Document7]
 DocumentPath=04-SENSORS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VOAHPXSA
 
-[Document7]
+[Document8]
 DocumentPath=05-MUX.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZIOQCXCN
 
-[Document8]
+[Document9]
 DocumentPath=..\..\ComponentsLib\A.Shelestov_Batteries.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document10]
 DocumentPath=..\..\ComponentsLib\A.Shelestov_Batteries.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UUODEKMY
 
-[Document10]
+[Document11]
 DocumentPath=06-LORA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XZSGOMTV
 
-[Document11]
+[Document12]
 DocumentPath=07-POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -223,23 +240,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UBANSQCC
-
-[Document12]
-DocumentPath=A.SHELESTOV_MOD1.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YPBTDITO
 
 [Document13]
 DocumentPath=08-TYPE-C-PORT.SchDoc
@@ -259,6 +259,23 @@ GenerateClassCluster=0
 DocumentUniqueId=YOUNCABS
 
 [Document14]
+DocumentPath=A.SHELESTOV_MOD1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YPBTDITO
+
+[Document15]
 DocumentPath=esp32-gps-collar.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
