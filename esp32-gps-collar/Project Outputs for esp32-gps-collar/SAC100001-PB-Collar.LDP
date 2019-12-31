@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Andrew\Documents\Altium\esp32-gps-collar\esp32-gps-collar\SAC100001-PB-Collar.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=sac100001-pb-collar-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=sac100001-pb-collar-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl

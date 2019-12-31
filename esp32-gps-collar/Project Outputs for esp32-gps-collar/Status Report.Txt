@@ -1,0 +1,13 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [esp32-gps-collar.PrjPcb]
+   Generated File[SAC100001-PB-Collar.GTP]
+   Generated File[SAC100001-PB-Collar.RUL]
+   Generated File[SAC100001-PB-Collar.EXTREP]
+   Generated File[SAC100001-PB-Collar.REP]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 21:19:30 On 30.12.2019
