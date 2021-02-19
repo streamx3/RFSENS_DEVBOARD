@@ -2,7 +2,7 @@
 
 STM32 based devboard for IMU sensors with RTK GPS and LoRa modems
 
-[Quick Schematic, BOM, DRC and Assembly](RFSENS-Altium/RFSENS.pdf)
+[Quick Schematic, BOM, DRC and Assembly in PDF](RFSENS-Altium/RFSENS.pdf)
 
 ## Actual device:
 

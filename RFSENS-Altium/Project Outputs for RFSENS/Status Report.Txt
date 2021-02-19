@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [RFSENS.PrjPcb]
+   Generated File[SAC100001-RFSENS-RoundHoles.TXT]
+   Generated File[SAC100001-RFSENS-SlotHoles.TXT]
+   Generated File[SAC100001-RFSENS.LDP]
+   Generated File[SAC100001-RFSENS.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 15:58:45 On 2/19/2021
